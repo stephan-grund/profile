@@ -106,7 +106,14 @@ i:hover {
     width: 300px;
   }
     .img-circle {
-    width: 25vw;
-    height: 25vh;
+    width: 100px;
+    height: 100px;
+  }
+  .btn-blue {
+    font-size: 12px;
+  }
+
+  .logo {
+    width: 100%;
   }
 }
